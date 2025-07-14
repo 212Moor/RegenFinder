@@ -70,7 +70,7 @@ Pour fonctionner, l'application a besoin d'un fichier players.csv contenant la b
 Un outil simple avec une interface graphique pour retrouver les joueurs originaux de vos "regens" dans le mode Carrière de FC 25.
 
 ![Aperçu de l'application]([https://i.imgur.com/8N4Xl0S.png](https://media.discordapp.net/attachments/1046165968952492222/1394126906583945216/image.png?ex=6875ad5c&is=68745bdc&hm=804ae578bb6cc1d97b7a943643c764e04c86cd12dfda3fc2e8071b9453a10437&=&format=webp&quality=lossless))
-*(Pensez à remplacer cette image par une vraie capture d'écran de votre application !)*
+
 
 ---
 
