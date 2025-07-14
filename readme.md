@@ -2,7 +2,7 @@
 
 Un outil simple avec une interface graphique pour retrouver les joueurs originaux de vos "regens" dans le mode Carrière de FC 25.
 
-![Aperçu de l'application](https://imgur.com/gtZrJVC)
+![Aperçu de l'application]([img]https://i.imgur.com/gtZrJVC.png[/img])
 
 ---
 
